@@ -1,17 +1,21 @@
-# Les acrhitectures applicatives
+# Les architectures applicatives
 
-![](./images/monolith-vs-microservices-removebg-preview.png)
 
-![](./images/azure-functions.png)
-
-- [Les acrhitectures applicatives](#les-acrhitectures-applicatives)
+- [Les architectures applicatives](#les-architectures-applicatives)
   - [A propos](#a-propos)
   - [Contenu](#contenu)
   - [Formateur](#formateur)
 
+
+![](./images/monolith-vs-microservices-removebg-preview.png)
+
+
 ## A propos
 
 Ce dépôt contient du matériel de soutien pour le cours **Architectures Applicatives**
+
+![](./images/azure-functions.png)
+
 
 ## Contenu
 
@@ -21,6 +25,7 @@ Ce dépôt est organisé comme suit :
 - [Part 1](./Architectures%20Applicatives%20(Part.%201).pdf)
 - [Part 2](./Architectures%20Applicatives%20(Part.%202).pdf)
 - [Les exercices](./exercices/)
+
 
 ## Formateur
 
